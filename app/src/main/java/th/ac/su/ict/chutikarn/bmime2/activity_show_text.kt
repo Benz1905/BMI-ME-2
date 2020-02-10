@@ -23,7 +23,6 @@ class activity_show_text : AppCompatActivity() {
         var heightformcm: Double = 0.0
         var result: Double = 0.0
 
-
         heightformcm = height / 100
         result = weight / (heightformcm * heightformcm)
 
